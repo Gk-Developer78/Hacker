@@ -1,2 +1,8 @@
+
 I am a fix file which will be used to fix the bug.
 this is text for bug fix
+
+This is a git graph please show the file.
+fixed into file.
+This is text for master
+
