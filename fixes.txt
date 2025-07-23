@@ -1,2 +1,3 @@
 This is a git graph please show the file.
 fixed into file.
+This is text for master
